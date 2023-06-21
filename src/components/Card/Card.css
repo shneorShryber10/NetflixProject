@@ -1,0 +1,18 @@
+.card img {
+  border-radius: 10px;
+  width: 234px;
+  height: 348px;
+}
+.card :hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}
+
+.text-block {
+  position: absolute;
+  right: 20px;
+  color: white;
+  margin-top: 130px;
+  padding-left: 20px;
+  padding-right: 20px;
+}/*# sourceMappingURL=Card.css.map */

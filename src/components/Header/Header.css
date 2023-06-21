@@ -1,0 +1,14 @@
+.nav-container {
+  height: 50px;
+  background: #000;
+}
+
+.nav-option {
+  display: flex;
+  list-style: none;
+}
+.nav-option li {
+  text-decoration: none;
+  color: white;
+  margin-left: 30px;
+}/*# sourceMappingURL=Header.css.map */
